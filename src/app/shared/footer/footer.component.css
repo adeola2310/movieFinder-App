@@ -1,0 +1,32 @@
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: teal;
+  color: white;
+  text-align: center;
+
+}
+
+.footer-follow {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.footer-follow li {
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 13px;
+}
+
+.footer-follow li a {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  border-radius: 3px;
+  background-color: #FFFFFFFF;
+  color:teal;
+}
